@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&family=Poppins:wght@100;300;400;500;600&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: Poppins, sans-serif;
+    background-image: linear-gradient(to right, rgb(192, 113, 138), #4a4a9e);
+}
+.cabeçalho {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    margin-top: 20px;
+    padding: 0;
+}
+.titulos{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.titulo-1{
+    margin: 0;
+    color: black;
+}
+
+.titulo-2 {
+    margin: 0;
+    color: black;
+}
+
+.navegação{
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-around;
+    font-weight: 300;
+}
+
+.inicio{
+    margin-left: 40px;
+    margin-right: 40px;
+    color: palevioletred;
+    font-weight: 500;
+}
+
+
+.meiao {
+    margin-left: 40px;
+    margin-right: 40px;
+    color: plum;
+    font-weight: 500;
+}
+
+.fin{
+    margin-left: 40px;
+    margin-right: 40px;
+    color: rgb(116, 116, 243);
+    font-weight: 500;
+}
+
+.meio{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.meio-esquerda {
+    margin: 0;
+    margin-left: 200px;
+}
+
+.meio-direita{
+    margin: 0;
+    margin-right: 0;
+    font-weight: 500;
+}
+
+.descrição{
+    color: palevioletred;
+    font-size: 20px;
+}
+
+.pergunta{
+    color: plum;
+    font-size: 18px;
+}
+
+.lista{
+    color: rgb(222, 222, 255);
+}
+
+.l1{
+    padding: 2px;
+}
+
+.l2{
+    padding: 2px;
+}
+
+.l3{
+    padding: 2px;
+}
+
+.l4{
+    padding: 2px;
+}
+
+.l5{
+    padding: 2px;
+}
+
+.botao {
+    display: flex;
+    justify-content: center;
+  }
+
+.botao-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f2f2f2;
+    color: #333;
+    text-decoration: none;
+    border: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .botao-link:hover {
+    background-color: #ddd;
+  }
+
+.footer{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-sizing: content-box;
+}
+
+.legal{
+    margin: 0;
+    padding: 0;
+}
+
