@@ -3,4 +3,4 @@ Landing Page simples
 
 Pode acessar o resultado final em:
 
-https://joaovitor7817.github.io/landing-page-garrafa/
+https://joaovgomees.github.io/landing-page-garrafa/
